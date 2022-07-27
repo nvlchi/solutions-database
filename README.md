@@ -1,3 +1,7 @@
 # Climate Solutions Database
 
 A collaboratively maintained database of the adoption of climate solutions globally
+
+- [Main Template](https://docs.google.com/spreadsheets/d/1m_uSz_wwC1_AjVzdiPZuOcl1Uyc2Fm_w47SM2Avpo1M/edit#gid=1694935697)
+- [Vietnam](https://docs.google.com/spreadsheets/d/1d1vQoJkXPydEfPlFvBMhVXuoBRcLqL4AJuLWegcard0/edit#gid=1694935697)
+- [Kenya](https://docs.google.com/spreadsheets/d/1iglP0qA36xundC_9vzc3m8lpfcoyCvvEcCVe-R-v_LE/edit#gid=1694935697)
